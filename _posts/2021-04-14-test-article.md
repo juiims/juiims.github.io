@@ -3,7 +3,7 @@ layout: post
 title: Test
 subheading: HELLO BLOG
 author: Jeffrey
-categories: TEST, CateTest
+categories: TEST
 banner: https://bit.ly/32PAjtM
 tags: jekyll theme yat
 sidebar: []
