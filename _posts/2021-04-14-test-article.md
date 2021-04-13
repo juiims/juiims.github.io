@@ -1,6 +1,12 @@
 ---
 layout: post
-categories: junk
+title: 테스트 게시물 입니다.
+subheading: HELLO BLOG
+author: Jeffrey
+categories: TEST, CateTest
+banner: https://bit.ly/32PAjtM
+tags: jekyll theme yat
+sidebar: []
 ---
 
 테스트 게시물 입니다. 
