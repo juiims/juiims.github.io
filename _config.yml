@@ -166,4 +166,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
