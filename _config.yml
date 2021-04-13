@@ -24,13 +24,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Juiims's Blog 개발일기
+title: Juiims's Blog 
 email: juu9503@gmail.com
 author: GitHub User
 copyright: Copyright © 1970-2010
-description: >- # this means to ignore newlines until "baseurl:"
-  공부하고 싶은거 공부할거 정리해보고 싶어서 만든 블로그. 
-  개인적으로 꾸준히 올라왔으면..
+description: >- # this means to ignore newlines until "baseurl:"  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
