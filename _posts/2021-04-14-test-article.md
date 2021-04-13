@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 테스트 게시물 입니다.
+title: Test
 subheading: HELLO BLOG
 author: Jeffrey
 categories: TEST, CateTest
