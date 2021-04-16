@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "댓글 테스트 글"
+title: comment Test
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [test]
