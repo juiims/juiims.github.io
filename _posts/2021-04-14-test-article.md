@@ -7,7 +7,6 @@ categories: TEST
 banner: https://bit.ly/32PAjtM
 tags: jekyll theme yat
 sidebar: []
-comments : true
 ---
 
 테스트 게시물 입니다. 
