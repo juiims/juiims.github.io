@@ -138,7 +138,7 @@ yat:
 # paginate: 5
 
 # Disqus comments
-# disqus:
+disqus:
    shortname: "https-juiims-github-io"
 
 # Gitment comments
